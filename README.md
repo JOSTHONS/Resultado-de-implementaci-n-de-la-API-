@@ -61,3 +61,16 @@ Puedes probar los endpoints usando herramientas como Postman, cURL o tu navegado
         "email": "test@example.com"
     }
     ```
+
+---
+
+## Reto de Evidencia
+
+Este repositorio contiene la evidencia del primer ejercicio de implementación.
+
+*   **Evidencia en Postman:** Se incluyen capturas de pantalla de la API funcional utilizando Postman.  *(Nota: Guarda las capturas de Postman en este repositorio con nombres como `captura_get.png`, `captura_post.png`)*
+*   **Enlace al Proyecto (GitHub):** [https://github.com/JOSTHONS/Resultado-de-implementaci-n-de-la-API-](https://github.com/JOSTHONS/Resultado-de-implementaci-n-de-la-API-)
+
+### Comentario de Aprendizaje
+
+> En este ejercicio aprendí lo fácil y rápido que es levantar un servidor web básico con Python utilizando el framwork Flask. Comprendí cómo definir rutas (`@app.route`), cómo manejar diferencias entre peticiones `GET` y `POST`, y la importancia de trabajar con formato JSON usando `jsonify` y `request.json` para la entrada y salida de datos en una API REST. También aprendí a probar que mi API funcione conectándola con Postman.
