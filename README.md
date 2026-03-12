@@ -291,11 +291,9 @@ Este repositorio cumple de manera sobrada como evidencia verificable del primer 
 El repositorio con control de versiones Git puede encontrarse en su versión original y actualizada a través del siguiente enlace oficial: 
 👉 **[GitHub Oficial del Proyecto: JOSTHONS](https://github.com/JOSTHONS/Resultado-de-implementaci-n-de-la-API-)**
 
-### 🧠 Reflexión Técnica Final
+### 🧠 Lo que aprendí con mis propias palabras
 
-> *"El desarrollo de este laboratorio intensivo fue profundamente revelador. Más allá de simplemente teclear comandos, este ejercicio solidificó la arquitectura conceptual que hay detrás de las aplicaciones modernas. Escribir servidores desde cero en Python usando Flask desmitifica cómo el Internet transporta nuestra información. 
-> 
-> He interiorizado conceptos críticos como el enrutador de peticiones (Routing), los protocolos `GET` frente a `POST` y la estandarización universal del formato **JSON** como idioma universal entre plataformas heterogéneas. Trabajar lado a lado con herramientas profesionales como Postman ha afilado enormemente mis capacidades de depuración ('debugging') permitiendo inspeccionar meticulosamente tanto las cabeceras (Headers) de entrada como los cuerpos (Body) de las cargas útiles enviadas al servidor. Una práctica incalculable de cara a la incursión profesional en arquitecturas de microservicios."*
+> En este ejercicio aprendí lo fácil y rápido que es levantar un servidor web básico con Python utilizando el framwork Flask. Comprendí cómo definir rutas, cómo manejar diferencias entre peticiones GET y POST, y la importancia de trabajar con formato JSON usando jsonify y request.json para la entrada y salida de datos en una API REST. También aprendí a probar que mi API funcione conectándola con Postman.
 
 ---
 ✨ *Documentación elaborada con dedicación exhaustiva y metodologías ágiles para el desarrollo integral del conocimiento en programación Backend.*
